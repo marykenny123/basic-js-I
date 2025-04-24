@@ -34,7 +34,7 @@ console.log(postres);
 //Ejercicio 4: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 coderName = "Maria";
 coderAge = 25;
-const coder = [coderName, 25];
+const coder = [coderName, coderAge];
 console.log(coder);
 
 
